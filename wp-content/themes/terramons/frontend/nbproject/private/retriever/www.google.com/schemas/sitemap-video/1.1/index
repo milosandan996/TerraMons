@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Video Sitemaps</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="stylesheet" href="https://www.google.com/css/gcs-v2.css" charset="utf-8" nonce="5YhedMAzLzU7TjkgmwXseQ" />
+  <link href="https://www.google.com/css/modules/buttons/g-button.css" rel="stylesheet" nonce="5YhedMAzLzU7TjkgmwXseQ" />
+</head>
+
+<body>
+
+<div class="g-doc-1024 standard">
+
+  <div class="g-section header">
+		<a href="https://developers.google.com/search">
+			<img src="https://www.google.com/images/logos/google-search-central-logo.png" width="300" alt="Google Search Central" />
+		</a>
+	</div>
+
+  <div class="g-section g-tpl-160">
+
+    <div class="g-unit g-first nav">
+      <ul>
+        <li><a href="https://search.google.com/search-console">Google Search Console</a>
+        <li></li>
+        <li><a href="https://support.google.com/webmasters/answer/80471">About Video Sitemaps</a>
+      </ul>
+    </div>
+
+    <div class="g-unit">
+
+      <h2>Video Sitemaps</h2>
+      <p>Google uses XML schemas to define the elements and attributes that can appear in your Sitemap
+      file.  A Sitemap may contain both core Sitemap elements and elements specific to Video. You can
+      download the schemas from the links below:</p>
+      <p>
+      For elements specific to Video:<br />
+      <a href="https://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd">https://www.google.com/schemas/sitemap-video/1.1/sitemap-video.xsd</a>
+      </p>
+      <p>
+      For core Sitemap elements:<br />
+      <a href="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd</a>
+      </p>
+      <p>
+      <a href="https://developers.google.com/search/docs/advanced/sitemaps/overview">More information about Sitemaps on Google</a>
+      </p>
+
+    </div>
+  </div>
+
+  <div class="footer">&copy;2011 Google -
+    <a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a> -
+    <a href="https://policies.google.com/terms" target="_blank">Terms and Conditions</a> -
+    <a href="https://about.google/" target="_blank">About Google</a> -
+    <a href="https://support.google.com/webmasters/community">Search Central Help Community</a>
+  </div>
+
+</div>
+
+</body>
+</html>
